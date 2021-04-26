@@ -1,8 +1,7 @@
-name: "SMIcourse"
-title: "SMI Course"
+name: "SISMID2021"
+title: "SISMID 2021"
 logo:
-    image: media/SMIlogo.png
-    href: https://andreashandel.github.io/SMIcourse/
+    href: https://andreashandel.github.io/SISMID2021/
 type: inverse
 left:
   - text: "General Information"
@@ -101,4 +100,4 @@ left:
          href: ./General_Resources.html
 right:
   - icon: fab fa-github
-    href: https://github.com/andreashandel/SMIcourse
+    href: https://github.com/andreashandel/SISMID2021

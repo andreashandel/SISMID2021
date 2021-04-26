@@ -1,5 +1,5 @@
 ---
-title: SMI Course Project Information 
+title: Course Project Information 
 subtitle: ""
 author: Andreas Handel
 institute: "University of Georgia"

@@ -1,5 +1,5 @@
 ---
-title: "Simulation Modeling in Immunology"
+title: "SISMID 2021"
 output: 
   html_document:
     toc: FALSE
@@ -13,21 +13,14 @@ library(emo)
 
 
 
-<!-- Some trickery to get the logo to show -->
-<script>
-   $(document).ready(function() {
-     $head = $('#header');
-     $head.prepend('<img src=\"media/smi_logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
-   });
-</script>
 
 Last update/recompile: `r Sys.time()`
 
-Welcome to the website **Simulation Modeling in Immunology (SMI).** 
+**Site currently under construction. Expect things to not work as long as you see this message.**
 
-This website is the main resource for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2020/modules/MD2010), which is part of the [Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). 
 
-We plan to keep this website continuously online, with updates happening every time we teach the course again - or if we have otherwise time and reason to update things `r emo::ji('smiley')`.
+Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110), which is part of the [2021 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). 
+
 
 
 # Notes
@@ -70,7 +63,7 @@ This course was developed and is maintained by [Andreas Handel](https://www.andr
 ```{r, results = "asis", echo = FALSE, message = FALSE, warning=FALSE}
 #the following code snipped is taken from Hadley's R4DS intro page
 library(dplyr)
-contributors <- readr::read_csv("SMICoursecontributors.csv", col_types = list())
+contributors <- readr::read_csv("coursecontributors.csv", col_types = list())
 contributors <- contributors %>% 
   mutate(
     link = glue::glue("[\\@{GithubID}](https://github.com/{GithubID})"),

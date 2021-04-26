@@ -1,5 +1,5 @@
 ---
-title: Simulation Modeling in Immunology - Course Schedule
+title: Course Schedule
 subtitle: ""
 author: Andreas Handel
 institute: "University of Georgia"

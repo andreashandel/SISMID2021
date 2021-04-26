@@ -1,4 +1,4 @@
-name: "SMI Course"
+name: "SISMID 2021"
 output_dir: "docs"
 exclude: ["auxiliary", "*.csv"]
 output:
@@ -11,4 +11,4 @@ output:
       collapsed: false
     includes:
       in_header: include_head.html
-    css: "./media/SMICourse_style.css"
+    css: "./media/course_style.css"

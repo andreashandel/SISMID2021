@@ -1,5 +1,5 @@
 ---
-title: SMI 2020 - Introduction to Immunology
+title: Introduction to Immunology
 subtitle: ""
 date: "`r file.mtime(knitr::current_input())`"
 #bibliography: ../media/SMICourse.bib

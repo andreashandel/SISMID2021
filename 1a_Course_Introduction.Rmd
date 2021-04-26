@@ -1,5 +1,5 @@
 ---
-title: SMI 2020 - Course Introduction 
+title: Course Introduction 
 subtitle: ""
 date: "`r file.mtime(knitr::current_input())`"
 #bibliography: ../media/SMICourse.bib
@@ -14,7 +14,7 @@ library(emo)
 
 # Introduction
 
-Welcome to the SISMID module **Infectious Diseases, Immunology and Within-Host Models**. On this website, we also use the title **Simulation Modeling in Immunology (SMI)**. You'll see us use it interchangeably. (That's because this website is planned to be a future resource not just for the SISMID course but more generally covering simulation modeling and immunology.)
+Welcome to the SISMID module **Infectious Diseases, Immunology and Within-Host Models**. On this website, we also at times use the title **Simulation Modeling in Immunology (SMI)**. You'll see us use it interchangeably. (That's because this website is planned to be a future resource not just for the SISMID course but more generally covering simulation modeling and immunology.)
 
 
 # Course Setup

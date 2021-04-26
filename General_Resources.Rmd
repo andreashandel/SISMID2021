@@ -1,5 +1,5 @@
 ---
-title: General Infectious Disease Epidemiology and Modeling Resources
+title: General Resources
 subtitle: ""
 author: Andreas Handel
 institute: "University of Georgia"

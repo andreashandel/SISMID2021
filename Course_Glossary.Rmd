@@ -1,5 +1,5 @@
 ---
-title: SMI Course Glossary
+title: Course Glossary
 subtitle: ""
 institute: "University of Georgia"
 date: "`r file.mtime(knitr::current_input())`"
