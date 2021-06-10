@@ -16,7 +16,8 @@ output:
 library(emo)
 ```
 
-This page lists resources that are explicitly used or mentioned in this course. For a more extensive list of resources, see the _General Resources_ page.
+This page lists resources that are relevant for this course.
+
 
 All materials described below are (should be) freely available online. If you can't get to them, let me know. Note that a lot of the listed resources are dynamic and ever changing. That means occasionally links might not work, sites go offline, chapters in online books get re-arranged, etc. If you notice anything that's not quite right, please let me know.
 
@@ -43,5 +44,11 @@ All materials described below are (should be) freely available online. If you ca
 
 * [modelbuilder](https://ahgroup.github.io/modelbuilder/). An R package that allows you to build and analyze your own models without having to write code. This is optional, we won't formally use it in the course but you might want to explore it on your own. Note that the package is work in progress (feel free to contribute `r emo::ji('smiley')`).
 
+
+# Further Resources
+
+* There are many further resources available for learning more. We list some of them in the [Resources section of the SMI course website]().
+
+For a list of terms that are commonly used in Immunology and Modeling see [this Glossary on the SMI website](https://andreashandel.github.io/SMIcourse/Course_Glossary.html).
 
 

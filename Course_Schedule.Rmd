@@ -25,10 +25,10 @@ Abbreviations used: [DSAIRM = Dynamical Systems Approach to Immune Response Mode
 
 ## Before course start
 
-* Familiarize yourself with this website. Read through all pages apart from the ones under the _Modules_ tab.
-* Go through the materials listed under _Module 1_. You should end up with R/Rstudio up and running and the DSAIRM package installed and working. 
+* Familiarize yourself with this website. Read through all of it.
 * Read [Simulation Modelling for Immunologists](https://handelgroup.uga.edu/publication/2020-handel-natrevimm/).
-* Watch these videos.
+* Get the tools we need, namely R, Rstudio and the DSAIRM pacakge up and running. Instructions on how to do that [can be found here]().
+
 
 
 ## Wednesday 2020-07-14
@@ -113,14 +113,15 @@ _break_
 
 ## Any time
 
-Go through module 8 content.
+Go through any additional content on the [SMI website](https://andreashandel.github.io/SMIcourse/) that you are interested in. Feel free to ask us questions about any of those topcis, or anything else on Slack.
 
 ***
 
 
 ## After course end
 
-* This course website will remain online. 
+* This course website will remain online. It will not be further updated.
+* The [SMI website](https://andreashandel.github.io/SMIcourse) is continuously online and will receive future updates as we produce more content.
 * DSAIRM and modelbuilder packages will continue to be available.
-* We will keep the Slack workspace open for at least several more weeks (but might be slower to respond). Feel free to keep using it. I'll post a note to the Slack workspace before I shut it down. If you want to continue communications with us or fellow classmates after that, we suggest you switch to other means (e.g. email).
+* We will keep the Slack workspace open for at least several more weeks (but might be slower to respond). Feel free to keep using it. I'll post a note to the Slack workspace before I shut it down. If you want to continue communications with us or fellow classmates after that, we suggest you switch to other means (e.g., email).
 
