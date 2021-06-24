@@ -13,7 +13,7 @@ output:
 ## Course Information
 
 * Instructors: Paul Thomas and Andreas Handel
-* Course Meeting Time and Location: 2020-07-20 - 2020-07-22, online
+* Course Meeting Time and Location: 2021-07-14 - 2021-07-16, online
 
 ## Textbook and Other Course Material
 
@@ -31,7 +31,7 @@ This course has no grades. You will get a certificate of completion at the end.
 
 ## Class Attendance
 
-This class is online. We hope you will attend all synchronous events as much as possible. We expect that you devote the full time to this online class that you would have devoted to it if it had been in-class. In addition, you have the option to start engaging with the material before the class officially starts and of course you can continue to work on it for as long as you want. 
+This class is online. We hope you will attend all synchronous events as much as possible. We expect that you devote the full time to this online class that you would have devoted to it if it had been in-class. In addition, you have the option to start engaging with the material before the class officially starts and you can continue to work on it after the course for as long as you want. 
 
 
 ## Prerequisites

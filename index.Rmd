@@ -26,20 +26,18 @@ Welcome to the website for the course/module called [Infectious Diseases, Immuno
 
 The __Syllabus__ provides a brief overview with a few logistic details.
 
-The __Schedule__ lists the topics, with links to materials. Most of the materials are on a separate site called [Simulation Modeling in Immunology]() which we use as the main, permanent repository for teaching materials related to this course. 
+The __Schedule__ lists the topics, with links to materials. Most of the materials are on a separate site called [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) which we use as the main, permanent repository for teaching materials related to this course (and other workshops). 
 
 The __Communication__ section provides information on how course communications are planned to happen.
 
-The __Resources__ section contains a listing of external materials. The _Course Resources_ page lists materials used in this course. The _General Resources_ page lists additional materials that are relevant to the course topic and might be of interest. 
+The __Resources__ section contains a listing of the main sources and materials we'll be using in this course, as well as links to further resources.
 
-The __Glossary__ section provides a (work in progress) glossary with definitions of technical terms.
-
-You have the opportunity to do an optional project. Instructions and detailed information for this are given in the __Project__ section.
+The __Project__ section has information and instructions for a - completely optional - course project you can do if you want. 
 
 
 # Getting started
 
-Start by looking over the __Syllabus__ and __Schedule__, then __Communication__ and __Resources__. After that, browse through the rest of the content. 
+Start by briefly going through all the sections on this website. The go through and do everything listed in the _Before course start_ section of the __Schedule__. 
 
 # Notes
 
@@ -48,28 +46,9 @@ We are a _Module_ of SISMID. However, for our purposes, we refer to our module a
 By default, all links open in the current tab. You'll likely want external ones to open in a separate tab or window. To do so, you can (with most browsers) hold the `Ctrl` button when clicking, or do a right-click and select `open in new tab/window`.
 
 
-# Contribute
-
-**We welcome contributions in the form of feedback, suggestion for edits/additions, etc. You can either tell us or you can even contribute directly through a GitHub pull request.** (If you don't know what a GitHub pull request is and how you can do that, see the GitHub specific instructions [here](https://andreashandel.github.io/MADAcourse/Exercise_Tidyverse.html). You can ignore the part that talks about the `tidyverse`. You might also want to check out [this brief GitHub introduction](https://andreashandel.github.io/MADAcourse/1d_Github.html)).
-
-
 # Acknowledgements
 
 This course was developed and is maintained by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html).
-
-```{r, results = "asis", echo = FALSE, message = FALSE, warning=FALSE}
-#the following code snipped is taken from Hadley's R4DS intro page
-library(dplyr)
-contributors <- readr::read_csv("coursecontributors.csv", col_types = list())
-contributors <- contributors %>% 
-  mutate(
-    link = glue::glue("[\\@{GithubID}](https://github.com/{GithubID})"),
-    desc = ifelse(is.na(LastName), link, glue::glue("{FirstName} {LastName} ({link})"))
-  )
-cat("The following individuals have contributed to improving the course:\n")
-cat(paste0(contributors$desc, collapse = ", "))
-```
-
 
 # License
 
