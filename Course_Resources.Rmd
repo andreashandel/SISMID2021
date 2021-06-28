@@ -36,7 +36,7 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 # Other online materials
 
-* The majority of materials for the course are on our [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/) website. You'll be going there a lot.
+* The majority of materials for the course are on our [Simulation Modeling in Immunology (SMI)](https://andreashandel.github.io/SMIcourse/) website. You'll be going there a lot.
 
 
 # Getting help
