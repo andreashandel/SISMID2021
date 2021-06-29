@@ -70,8 +70,12 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 * Watch the __Introduction to Influenza__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
 
-* Watch the __Using Models for Exploration__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
+* Go through the __Using Models for Exploration__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
 
+* Go through the __Stochastic Models__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Model_Stochasticity.html).
+
+
+* Take a look at these apps in DSAIRM: __Basic Bacteria Model__, __Basic Bacteria Model Exploration__ and __Stochastic Dynamics__. You don't need to fully work through them, but read the _Model_ sections and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
 
 The SMI site also contains a lecture on HCV in the _Viral Infections_ module, lectures on TB and Malaria in the _Complex Pathogens_ module, and several additional units in the _Using Simulation Models_ module. Feel free to go through any of them and ask any questions about those topics during our discussions (or on Slack).
 
@@ -108,7 +112,9 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 **As preparation before we meet, do the following:**
 
-TBD
+* Go through the __Parameter Uncertainty__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Parameter_Uncertainty.html).
+
+* Take a look at these apps in DSAIRM: __Uncertainty and Sensitivity Analysis__. You don't need to fully work through them, but read the _Model_ section and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
 
 
 ***
@@ -137,7 +143,7 @@ _break_
 
 ## Any time
 
-Go through any additional content on the [SMI website](https://andreashandel.github.io/SMIcourse/) that you are interested in. Feel free to ask us questions about any of those topcis, or anything else on Slack.
+Go through any additional content on the [SMI website](https://andreashandel.github.io/SMIcourse/) that you are interested in. Explore the [DSAIRM models](https://ahgroup.github.io/DSAIRM/). Ask us questions about any of those topics on Slack.
 
 ***
 
