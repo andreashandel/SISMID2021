@@ -16,14 +16,14 @@ This is the schedule for the course. From here, you can access all instructions 
 
 ## Notes
 
-* SISMID was online last year and we recorded our lectures. Instead of repeating the same lectures from last year, we figured you will get more out of the course if you watch (some of) our lectures from last year on your own time in advance, and then in our Zoom meetings we will just be emphasizing some of the highlights of our lectures, followed by discussion and Q&A time. **This only works if you actually watch the lectures. If not, you'll likely feel lost. You have been warned `r emo::ji('grin')`.**
+* SISMID was online last year and we recorded our lectures. Instead of repeating the same lectures from last year, we figured you will get more out of the course if you watch (some of) our lectures from last year on your own time in advance, and then in our Zoom meetings we will just be emphasizing some of the highlights of our lectures, followed by discussion and Q&A time. **This only works if you actually watch the lectures. If not, you'll likely feel lost. You have been warned `r emo::ji('smile')`.**
 
 
 * **Time zones:** Seattle is in the PT zone. Your instructors are in ET (Andreas) and CT (Paul) zones. Some of you are likely in yet other locations and time zones. We hope we can keep things straight. For any times in this course **we will use PT/Seattle time as reference.** We also plan to be clear when posting any time by stating the time zone explicitly. If ever in doubt, i.e. if you see us posting a time without specifying the zone, please tell us to clarify. 
 
 * For details on Slack and Zoom use, see the __Communication__ section.
 
-* Abbreviations used: [DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package](https://ahgroup.github.io/DSAIRM/). 
+* Abbreviations used: [DSAIRM = Dynamical Systems Approach to Immune Response Modeling - R package](https://ahgroup.github.io/DSAIRM/). [SMI = Simulation Modeling in Immunology - website](https://andreashandel.github.io/SMIcourse/index.html). 
 
 
 
@@ -33,18 +33,18 @@ This is the schedule for the course. From here, you can access all instructions 
 * Familiarize yourself with this website. Read through all of it.
 * Read our paper [Simulation Modelling for Immunologists](https://handelgroup.uga.edu/publication/2020-handel-natrevimm/).
 * Set up the tools needed for this course, namely R, Rstudio and the DSAIRM package. Instructions on how to do that [can be found in the _Software Setup_ module of the SMI site](https://andreashandel.github.io/SMIcourse).
-
+* Post an Introduction to the _introductions-networking_ Slack channel. See the pinned post in that channel for instructions.
 
 ***
 
 
 ## Wednesday 2020-07-14, 11.30 - 2.30PT
 
-**As preparation for today, and before we meet, do the following:**
+**As preparation before we meet, do the following:**
 
-* Watch the _Introduction to Innate Immunity_ and _Introduction to Adaptive Immunity_ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Immunology.html).
+* Watch the __Introduction to Innate Immunity__ and __Introduction to Adaptive Immunity__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Immunology.html).
 
-* Watch the _Introduction to Modeling_ and _Introduction to Simple Models_ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html). You are welcome to read through the additional content provided in that module, but you don't have to.
+* Watch the __Introduction to Modeling__ and __Introduction to Simple Models__ lecture recordings, which you can [find here](https://andreashandel.github.io/SMIcourse/Introduction_to_Modeling.html). You are welcome to read through the additional content provided in that module, but you don't have to.
 
 ***
 
@@ -66,27 +66,27 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ## Thursday 2020-07-15, 8 - 2.30PT
 
-**As preparation for today, and before we meet, do the following:**
+**As preparation before we meet, do the following:**
 
-* Watch the _Introduction to Influenza_ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
+* Watch the __Introduction to Influenza__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Viral_Infections_Immunology.html). 
 
-* Watch the _Using Models for Exploration_ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
+* Watch the __Using Models for Exploration__ lecture recording, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
 
 
-There is a lecture on HCV in the _Viral Infections_ module of SMI, lectures on TB and Malaria in the _Complex Pathogens_ module, and several additional units in the _Using Simulation Models_ module. We will not focus on those pathogens, but feel free to watch them and ask any questions about those topics during our discussions (or on Slack).
+The SMI site also contains a lecture on HCV in the _Viral Infections_ module, lectures on TB and Malaria in the _Complex Pathogens_ module, and several additional units in the _Using Simulation Models_ module. Feel free to go through any of them and ask any questions about those topics during our discussions (or on Slack).
 
 ***
 
 
-8 - 8.45 PT (10CT/11ET) - Zoom: COVID Virology and Immunology (Paul)
+8 - 8.45 PT (10CT/11ET) - Zoom: SARS-Cov-2 Virology and Immunology (Paul)
 
 _break_
 
-9.00 - 9.30 - Zoom: Discussing COVID, Influenza and other virus infections and immunology (Paul)
+9.00 - 9.30 - Zoom: Discussing SARS-Cov-2, Influenza and other virus infections and immunology (Paul)
 
 _break_
 
-9.45 - 11.00 PT (11.30CT/12.30ET) - Zoom: Live DSAIRM level I model exploration exercises (Andreas) 
+9.45 - 11.00 PT (11.30CT/12.30ET) - Zoom: Live DSAIRM level I exercise (Andreas) 
 
 _Lunch Break._ Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
@@ -98,7 +98,7 @@ _break_
 
 _break_
 
-1.30-2.30 PT (3.30CT/4.30ET) - Zoom: Live DSAIRM level II exercise, part I. (Andreas)
+1.30-2.30 PT (3.30CT/4.30ET) - Zoom: Live DSAIRM level II exercise, part 1. (Andreas)
 
 Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.  
 
@@ -106,15 +106,18 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ## Friday 2020-07-16, 8 - 2.30PT
 
-**As preparation for today, you should have watched the following videos: TBD**
+**As preparation before we meet, do the following:**
+
+TBD
+
 
 ***
 
-8 - 9 PT (10CT/11ET) - Zoom: Live DSAIRM level II exercise, part II.  
+8 - 9 PT (10CT/11ET) - Zoom: Live DSAIRM level II exercise, part 2.  
 
 _break_
 
-9.15 - 10 PT (11.15CT/12.15ET) - Zoom: Further topics based on requests.
+9.15 - 10 PT (11.15CT/12.15ET) - Zoom: Further immunology or modeling topics based on requests.
 
 _break_
 
