@@ -72,10 +72,7 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 * Go through the __Using Models for Exploration__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Models_for_Exploration.html).
 
-* Go through the __Stochastic Models__ unit on SMI, which you can [find here](https://andreashandel.github.io/SMIcourse/Model_Stochasticity.html).
-
-
-* Take a look at these apps in DSAIRM: __Basic Bacteria Model__, __Basic Bacteria Model Exploration__ and __Stochastic Dynamics__. You don't need to fully work through them, but read the _Model_ sections and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
+* Take a look at these apps in DSAIRM: __Basic Bacteria Model__ and __Basic Bacteria Model Exploration__. You don't need to fully work through them, but read the _Model_ sections and play with them briefly so you are a bit familiar with them. We'll investigate them today during our live DSAIRM exercise sessions.
 
 The SMI site also contains a lecture on HCV in the _Viral Infections_ module, lectures on TB and Malaria in the _Complex Pathogens_ module, and several additional units in the _Using Simulation Models_ module. Feel free to go through any of them and ask any questions about those topics during our discussions (or on Slack).
 
@@ -90,7 +87,7 @@ _break_
 
 _break_
 
-9.45 - 11.00 PT (11.30CT/12.30ET) - Zoom: Live DSAIRM level I exercise (Andreas) 
+9.45 - 11.00 PT (11.30CT/12.30ET) - Zoom: DSAIRM level I exercise (Andreas) 
 
 _Lunch Break._ Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
@@ -98,11 +95,11 @@ _Lunch Break._ Go through SMI materials or explore DSAIRM on your own. Communica
 
 _break_
 
-1.00 - 1.20 PT (3CT/4ET) – Zoom: Discussion of complex pathogen life cycles (Paul)
+1.00 - 1.20 PT (3CT/4ET) – Zoom: Discussing Helminths and other complex pathogens (Paul)
 
 _break_
 
-1.30-2.30 PT (3.30CT/4.30ET) - Zoom: Live DSAIRM level II exercise, part 1. (Andreas)
+1.30-2.30 PT (3.30CT/4.30ET) - Zoom: DSAIRM level II exercise, part 1 (Andreas)
 
 Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for tomorrow. Communication through Slack.  
 
@@ -119,23 +116,23 @@ Rest of day - On your own: Explore DSAIRM. Go through SMI materials. Prepare for
 
 ***
 
-8 - 9 PT (10CT/11ET) - Zoom: Live DSAIRM level II exercise, part 2.  
+8 - 9 PT (10CT/11ET) - Zoom: DSAIRM level II exercise, part 2 (Andreas)  
 
 _break_
 
-9.15 - 10 PT (11.15CT/12.15ET) - Zoom: Further immunology or modeling topics based on requests.
+9.15 - 10 PT (11.15CT/12.15ET) - Zoom: Further immunology or modeling topics based on requests (Paul/Andreas)
 
 _break_
 
-10.15 - 11 PT - Zoom: Live DSAIRM level III exercise, part 1.
+10.15 - 11 PT - Zoom: DSAIRM level III exercise, part 1 (Andreas)
 
 _Lunch Break._ Go through SMI materials or explore DSAIRM on your own. Communication through Slack.  
 
-12 - 1.30 PT (2CT/3ET) – Zoom: Live DSAIRM level III exercise, part 2.
+12 - 1.30 PT (2CT/3ET) – Zoom: DSAIRM level III exercise, part 2 (Andreas)
 
 _break_
 
-1.45 - 2.30 PT (3.45CT/4.45ET) - Zoom: Final Q&A, course wrap-up. 
+1.45 - 2.30 PT (3.45CT/4.45ET) - Zoom: Final Q&A, course wrap-up (Paul/Andreas) 
 
 
 
