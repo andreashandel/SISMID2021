@@ -16,10 +16,24 @@ library(emo)
 
 Last update/recompile: `r Sys.time()`
 
-**Site currently under construction. Expect things to not fully work as long as you see this message.**
-
 Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110), which is part of the [2021 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). 
 
+# Important!
+
+**We are making some last-minute updates to the DSAIRM package. To make sure you have the latest, install it from GitHub the day before the workshop starts.**
+(You can install it any time prior, or install from CRAN, just make sure if you do that to re-install the day before the workshop by typing these commands into the `R` console):
+
+```
+install.packages('remotes')
+remotes::install_github('ahgroup/DSAIRM')
+```
+
+Then load the package and open the menu with these commands:
+```
+library('DSAIRM')
+dsairmmenu()
+```
+For more details, see [the _Software Setup_ module of the SMI site](https://andreashandel.github.io/SMIcourse).
 
 # Website content
 
