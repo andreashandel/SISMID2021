@@ -27,7 +27,7 @@ The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Pa
 (You can install it any time prior, or install from CRAN, just make sure if you do that to re-install the day before the workshop by typing these commands into the `R` console):
 
 ```
-install.packages('remotes')
+install.packages('remotes') #if you don't have the remotes package installed yet
 remotes::install_github('ahgroup/DSAIRM')
 ```
 
