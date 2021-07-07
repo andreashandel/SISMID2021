@@ -1,6 +1,7 @@
 name: "SISMID2021"
 title: "SISMID 2021"
 logo:
+    image: media/logo.png
     href: https://andreashandel.github.io/SISMID2021/
 type: inverse
 left:

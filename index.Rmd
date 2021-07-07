@@ -13,6 +13,15 @@ library(emo)
 
 
 
+<!-- Some trickery to get the logo to show -->
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
+   });
+</script>
+
+
 
 Last update/recompile: `r Sys.time()`
 

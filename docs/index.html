@@ -281,7 +281,14 @@ $(document).ready(function () {
 </div>
 
 
-<p>Last update/recompile: 2021-07-06 11:22:24</p>
+<!-- Some trickery to get the logo to show -->
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"media/logo.png\" style=\"float: right; border: none; width: 150px;\"/>')
+   });
+</script>
+<p>Last update/recompile: 2021-07-07 15:55:25</p>
 <p>Welcome to the website for the course/module called <a href="https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110">Infectious Diseases, Immunology and Within-Host Models</a>, which is part of the <a href="https://si.biostat.washington.edu/suminst/sismid">2021 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)</a>.</p>
 <p>The course is taught by <a href="https://www.andreashandel.com/">Andreas Handel</a> and <a href="https://www.stjude.org/directory/t/paul-thomas.html">Paul Thomas</a>. Our teaching assistant (TA) for the course is <a href="https://daileyco.github.io/">Cody Dailey</a>. You can reach us all on Slack (see the <strong>Communication</strong> page).</p>
 <div id="important" class="section level1">
