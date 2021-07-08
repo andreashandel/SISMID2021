@@ -48,7 +48,7 @@ Note that some of the listed resources are dynamic and ever changing. That means
 
 # Further Resources
 
-* There are many further resources available. We list some of them in the [Resources section of the SMI course website]().
+* There are many further resources available. We list some of them in the [Resources section of the SMI course website](https://andreashandel.github.io/SMIcourse/Resources.html).
 
 * For a list of terms that are commonly used in Immunology and Modeling see [this Glossary on the SMI website](https://andreashandel.github.io/SMIcourse/Glossary.html).
 
