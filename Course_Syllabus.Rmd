@@ -17,7 +17,8 @@ output:
 
 ## Textbook and Other Course Material
 
-All course materials will be provided on, or linked through this website. We will use the R software, which is freely available for download. 
+All course materials are provided. We link to all materials you need and explain how to get them.
+
 
 ## Course Description
 
@@ -31,12 +32,12 @@ This course has no grades. You will get a certificate of completion at the end.
 
 ## Class Attendance
 
-This class is online. We hope you will attend all synchronous events as much as possible. We expect that you devote the full time to this online class that you would have devoted to it if it had been in-class. In addition, you have the option to start engaging with the material before the class officially starts and you can continue to work on it after the course for as long as you want. 
+This class is online. We hope you will attend all synchronous events as much as possible. In addition, there is some work you should do before each synchronous session. 
 
 
 ## Prerequisites
 
-We assume you have some general familiarity with basic biology, maybe some immunology, and some statistical, modeling or coding experience. We understand every student will come with different skill sets. Since this is an introductory course, we try to make things as understandable as possible for anyone, no matter their previous knowledge. That means that some of the material might be too basic for you, will others will be new to you (and likely challenging). 
+We assume you have some basic biological and computer literacy. Some of you may know some immunology, or have some statistical, modeling or coding experience. We understand every student will come with different skill sets. Since this is an introductory course, we try to make things as understandable as possible for anyone, no matter their previous knowledge. That means that some of the material might be too basic for you, will others will be new to you (and likely challenging). 
 
 
 ## Getting Help
@@ -48,7 +49,3 @@ If you have questions about any aspect of the course, please do not hesitate to 
 
 For an outline of the course, please see the course __Schedule__ document. 
 
-
-## More Details
-
-Read through the rest of this website to learn all about the logistic details you need to know.
