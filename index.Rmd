@@ -37,7 +37,8 @@ The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Pa
 
 ```
 install.packages('remotes') #if you don't have the remotes package installed yet
-remotes::install_github('ahgroup/DSAIRM')
+library('remotes')
+install_github('ahgroup/DSAIRM')
 ```
 
 Then load the package and open the menu with these commands:
