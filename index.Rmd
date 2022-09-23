@@ -25,6 +25,9 @@ library(emo)
 
 Last update/recompile: `r Sys.time()`
 
+**This site will not be further updated. It will remain here for reference. We are only keeping the logistic parts here. The content has been moved (and continues to be updated) at our permanent, stand-alone site/course [Simulation Modeling in Immunology](https://andreashandel.github.io/SMIcourse/).**
+
+
 Welcome to the website for the course/module called [Infectious Diseases, Immunology and Within-Host Models](https://si.biostat.washington.edu/suminst/sismid2021/modules/MD2110), which is part of the [2021 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)](https://si.biostat.washington.edu/suminst/sismid). 
 
 The course is taught by [Andreas Handel](https://www.andreashandel.com/) and [Paul Thomas](https://www.stjude.org/directory/t/paul-thomas.html). Our teaching assistant (TA) for the course is [Cody Dailey](https://daileyco.github.io/). You can reach us all on Slack (see the **Communication** page). 
